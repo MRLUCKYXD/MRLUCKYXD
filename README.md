@@ -1,5 +1,5 @@
 <p align="left" style="font-size:20px;">
-    <b><img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAD/htmlanime.webp" height="30px">
+    <b><img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/htmlanime.webp" height="30px">
       Hᴇʏ Pᴇᴏᴘʟᴇs
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" alt="Hey">
     </b> 
@@ -12,7 +12,7 @@
 
 
 <p>
-    <img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAD/itsme.gif" alt="its gif" height="60px" width="70px" align="left">
+    <img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/itsme.gif" alt="its gif" height="60px" width="70px" align="left">
     <b>
         <i>
             <u align="right">
@@ -62,12 +62,12 @@ while (alive) {
 
 
 <p align="center">
-<a href="https://t.me/cute_boy701"><img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAD/Aww.jpg" height="100px"> <img src="https://telegra.ph/file/02d105a51c5f664d2b2cb.jpg" height="100px"></a><br>
+<a href="https://t.me/cute_boy701"><img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/Aww.jpg" height="100px"> <img src="https://telegra.ph/file/02d105a51c5f664d2b2cb.jpg" height="100px"></a><br>
 <a href="https://github.com/ItsmeHyper13"><img src="https://img.shields.io/badge/My_GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white"></a><br>
-<IMG SRC="https://github.com/ItsmeHyper13/ItsmeHyper13/blob/SparkelAD1317/SparkelAD/Visitors.png" height="20px"> <a href="https://t.me/HYPER_AD13"><img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=green" height="20px"></a><br>
+<IMG SRC="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/Visitors.png" height="20px"> <a href="https://t.me/cute_boy701"><img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=green" height="20px"></a><br>
 <IMG SRC="https://komarev.com/ghpvc/?username=ItsmeHyper13&color=brightgreen&label=PROFILE+VIEWS"><br>
 <IMG Src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsmeHyper131212%2Fhit-counter">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsmeHyper13?color=black&label=Followers&logo=Hyper-AD&logoColor=green&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mrluckyxd?color=black&label=Followers&logo=Hyper-AD&logoColor=green&style=social">
 </p><br>
 <p align="left">
     <details>
@@ -260,7 +260,7 @@ while (alive) {
 
 
 <p>
-<img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAD/dance.gif" align="left" height="60px"><b><i>✰Cᴜʀʀᴇɴᴛʟʏ Lɪsᴛɴɪɴɢ Tʜᴇ Tʀᴀᴄᴋ Oɴ Sᴘᴏᴛɪғʏ Aɴᴅ Bᴇɪɴɢ Iɴ Oᴡɴ Wᴏʀʟᴅ✰🎶</i></b>
+<img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/dance.gif" align="left" height="60px"><b><i>✰Cᴜʀʀᴇɴᴛʟʏ Lɪsᴛɴɪɴɢ Tʜᴇ Tʀᴀᴄᴋ Oɴ Sᴘᴏᴛɪғʏ Aɴᴅ Bᴇɪɴɢ Iɴ Oᴡɴ Wᴏʀʟᴅ✰🎶</i></b>
 </p>
 <p>
 <img src="https://itstommi.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">
