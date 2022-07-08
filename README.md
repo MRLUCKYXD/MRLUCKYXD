@@ -12,7 +12,7 @@
 
 
 <p>
-    <img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/itsme.gif" alt="its gif" height="60px" width="70px" align="left">
+    <img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAD/itsme.gif" alt="its gif" height="60px" width="70px" align="left">
     <b>
         <i>
             <u align="right">
