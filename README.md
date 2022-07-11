@@ -65,7 +65,7 @@ while (alive) {
 <a href="https://t.me/cute_boy701"><img src="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/Aww.jpg" height="100px"> <img src="https://telegra.ph/file/02d105a51c5f664d2b2cb.jpg" height="100px"></a><br>
 <a href="https://github.com/mrluckyxd"><img src="https://img.shields.io/badge/My_GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white"></a><br>
 <IMG SRC="https://github.com/mrluckyxd/mrluckyxd/blob/SparkelAD1317/SparkelAd/Visitors.png" height="20px"> <a href="https://t.me/cute_boy701"><img src="https://img.shields.io/badge/hyper-000000?style=for-the-badge&logo=Lucky&logoColor=green" height="20px"></a><br>
-<IMG SRC="https://komarev.com/ghpvc/?username=ItsmeHyper13&color=brightgreen&label=PROFILE+VIEWS"><br>
+<IMG SRC="https://komarev.com/ghpvc/?username=mrluckyxd&color=brightgreen&label=PROFILE+VIEWS"><br>
 <IMG Src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrluckyxd131212%2Fhit-counter">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mrluckyxd?color=black&label=Followers&logo=Mr-Lucky&logoColor=green&style=social">
 </p><br>
